@@ -18,7 +18,7 @@
 }
 
 .App-header {
-  background-image: url(../public/DashboardBackground.gif);
+  background-image: url(../public/Copy of tt color.png);
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -106,7 +106,7 @@ span {
   left: 50%;
   top: 50%;
   z-index: 2;
-  background-image: url(../public/goldenstar.png);
+  background-image: url(../public/Copy of tt color.png);
   background-size: cover;
   opacity: 1;
   transition: opacity 3s;
